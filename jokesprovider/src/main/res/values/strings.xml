@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JokesProvider</string>
+
+    <!-- Main Activity-->
+    <string name="joke_question_story">Joke Question</string>
+    <string name="joke_answer">Joke Answer</string>
+
+</resources>
